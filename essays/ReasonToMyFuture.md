@@ -14,7 +14,7 @@ For me, I grew up mostly being told what to do and never had many opportunities 
 
 Before taking ICS at the time I had a lot of stress thinking and contemplating what my career should be. Should I continue languages? Should I change over to the arts, or would business be better since it’s simpler? I just couldn’t determine where my interest lied. It wasn’t till I got some advice to talk to my relatives about their jobs, so I talked to them and started connecting them together. I realized than engineering might be a good consideration, because my father is a mechanical engineer. I also have two cousins in electrical and one cousin in mechanical. This made engineering have a very strong vote. 
 
-<img class="ui medium left floated image" src="../images/family.jpg">Talk to your family, make connections.
+<img class="ui medium left floated image" src="../images/family.jpg">"Talk to your family, make connections."
 
 
 
