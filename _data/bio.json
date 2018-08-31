@@ -48,7 +48,9 @@
       "keywords": [
         "C",
         "C++",
-        "Java"
+        "Java",
+        "MatLab", 
+        "Verilog"
       ]
     },
     {
@@ -69,7 +71,10 @@
       "endDate": "Present",
       "gpa": "3.01",
       "courses": [
-        "EE160, EE205, ICS111"
+        "Digital Systems and Computer Design",
+        "Discrete Mathematics",
+        "Linear Algebra and Differential Equations",
+        "Object Oriented Programming"
       ]
     }
   ],
