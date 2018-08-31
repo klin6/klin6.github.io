@@ -7,7 +7,7 @@ date: 2018-08-30
 labels:
   - Thinking
   - Answers
-  - EE160
+  - Java
 ---
 
 For me, I grew up mostly being told what to do and never had many opportunities to make my own decisions. I believe the reason was because I had all my parents attention as I was an only child. Not only that, but I actually didn’t have any experience with software material till I took ICS 111 in my sophomore year and learned Java. At that time the class was the deciding factor to what type of career I wanted to choose.
