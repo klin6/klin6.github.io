@@ -10,5 +10,5 @@ labels:
   - EE160
 ---
 
-<img class="ui medium left floated image" src="../images/rtfm.png">
+<img class="ui medium left floated image" src="../images/family.jpg">
 
