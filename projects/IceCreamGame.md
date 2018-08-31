@@ -16,6 +16,6 @@ summary: My team and I coded an Ice cream Game for our ICS111 final project.
   <img class="ui image" src="../images/Screen Shot 2018-08-30 at 3.30.05 PM.png">
 </div>
 
-Github Repository: <a href="https://github.com/klin6/ICSproj/tree/master/Project3e/Project3e"><i class="large github icon "></i>Ice Cream Game</a>
+Github: <a href="https://github.com/klin6/ICSproj/tree/master/Project3e/Project3e"><i class="large github icon "></i>Ice Cream Game</a>
 
 
