@@ -9,8 +9,10 @@ date: 2018-5-10
 labels:
   - C++
   - GitHub
-summary: Created a simple battle role playing game for my EE205 final project
+summary: Created a simple battle role playing game for my EE205 final project.
 ---
+
+
 <center>
   <div class="ui small rounded images">
     <img class="ui image" src="../images/Screen Shot 2018-08-30 at 3.22.15 PM.png">
