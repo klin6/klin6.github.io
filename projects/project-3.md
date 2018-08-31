@@ -14,5 +14,6 @@ summary: Proposed and developed a personal system that warns a user if a strange
 This was implemented using Arduino and MIT app inventor technology. 
 
 
+
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
