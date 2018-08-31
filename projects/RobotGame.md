@@ -14,9 +14,9 @@ summary: Created a simple battle role playing game for my EE205 final project.
 
 To show how much me and my team learned C++, we decided to program a game where the user may choose between four different types of fighters, each from their own class to fight a robot boss.
 
+<img class="ui image" src="../images/start.png">
 
-  <div class="ui small rounded images">
-    <img class="ui image" src="../images/start.png">
+<div class="ui small rounded images">
     <img class="ui image" src="../images/battle.png">
     <img class="ui image" src="../images/arena.png">
 </div>
