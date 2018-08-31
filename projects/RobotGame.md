@@ -20,7 +20,7 @@ After the game starts and the user chooses a fighter they can name the fighter, 
 
 <img class="ui image" src="../images/battle.png"> 
 
-<div class="ui small rounded images">
+<div>
 <img class="ui image" src="../images/arena.png">
 </div>
  
