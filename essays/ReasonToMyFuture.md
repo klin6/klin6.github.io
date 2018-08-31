@@ -10,5 +10,8 @@ labels:
   - EE160
 ---
 
-<img class="ui medium left floated image" src="../images/family.jpg">
-
+For me, I grew up mostly being told what to do and never had many experiences in making my own decision. I believe the reason was because I had all my parents attention as I was an only child.
+<center>
+  <div class="ui medium left floated image" src="../images/family.jpg">
+  </div>
+</center>
