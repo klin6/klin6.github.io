@@ -17,6 +17,7 @@ Before taking ICS at the time I had a lot of stress thinking and contemplating w
 <img class="ui medium left floated image" src="../images/family.jpg">
 Talk to your family, make connections.
 
+
 But then I started thinking of the future, watching the news I see AI’s progressing faster or companies like Apple upgrading for a better future. This made software education to stand out to me. So, because I have a cousin who is in IT, I went to go talk to her. Thanks to her I tried out ICS and in the end I came down to my final decision to choose Computer Engineering. 
 
 With this I can not only learn software but also engineering at the same time. As I continue to learn software engineering, I can gain a better understanding for the movements to economy’s growth in technology.
