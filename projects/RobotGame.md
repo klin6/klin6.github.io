@@ -18,8 +18,9 @@ To show how much me and my team learned C++, we decided to program a game where 
 
 After the game starts and the user chooses a fighter they can name the fighter, then the status of both fighter and robot is shown. To fight the battle the user can choose from attack, heal, or lower robot's defenses each action. While the robot is on a randomizer between attacking, healing, or doing nothing at each action. Best way to win the game is to focus on lowering the robots defenses first, then attacking.
 
-<div class="ui small rounded images">
 <img class="ui image" src="../images/battle.png"> 
+
+<div class="ui small rounded images">
 <img class="ui image" src="../images/arena.png">
 </div>
  
