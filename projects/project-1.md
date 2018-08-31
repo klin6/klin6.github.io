@@ -1,16 +1,14 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/cream.jpg
+title: Ice Cream Game
+permalink: projects/IceCreamGame
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2016-12-04
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+summary: My team and I coded an Ice cream Game for our ICS111 final project.
 ---
 
 <div class="ui small rounded images">
