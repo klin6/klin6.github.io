@@ -11,7 +11,8 @@ labels:
 summary: My team and I coded an Ice cream Game for our ICS111 final project.
 ---
 
-<div class="ui small rounded images">
+When determining project ideas I think it's always ended up being decided that my team does my idea. So for my ICS 111 final project 
+<div>
   <img class="ui image" src="../images/Screen Shot 2018-08-30 at 3.18.20 PM.png">
   <img class="ui image" src="../images/Screen Shot 2018-08-30 at 3.30.05 PM.png">
 </div>
