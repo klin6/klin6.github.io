@@ -22,7 +22,7 @@ After the game starts and the user chooses a fighter they can name the fighter, 
 <img class="ui image" src="../images/battle.png"> 
 <img class="ui image" src="../images/arena.png">
 </div>
-
+ 
 My role throughout the whole project was to work on putting together and organizing all members files. Because everyone worked separately I had to debug files and change formatting. I personally worked on the display functions around the main battle file. I basically used file scanning with fopen and fclose as functions. At the finishing point of the project I realized that the game was a bit lacking so I included a one time only mini guessing game to the battle that would give a pet sidekick special attack.
 
 GitHub Repository: <a href="https://github.com/klin6/EE205proj"><i class="large github icon "></i>Robot Game</a>
