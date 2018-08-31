@@ -14,7 +14,7 @@ summary: Created a simple battle role playing game for my EE205 final project.
 
 
 <center>
-  <div>
+  <div class="ui small rounded images">
     <img class="ui image" src="../images/start.png">
     <img class="ui image" src="../images/battle.png">
     <img class="ui image" src="../images/arena.png">
