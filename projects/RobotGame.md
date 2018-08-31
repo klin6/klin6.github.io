@@ -5,7 +5,7 @@ image: images/fight.png
 title: Robot Game
 permalink: projects/RobotGame
 # All dates must be YYYY-MM-DD format!
-date: 2018-5-10
+date: 2018-05-10
 labels:
   - C++
   - GitHub
