@@ -10,7 +10,7 @@ labels:
 
 ## Mind Blowing Script
 
-It’s already been about two weeks since I’ve been introduced to Javascript and honestly speaking it is a bit different to what I was expecting. Before taking ICS 314, I thought Javascript was just going to be like Java only at a more difficult level. After the past two weeks I can tell why Javascript is one of the three core technologies of the World Web. Up to now I have learned Java, C, and C++, but compared to these Javascript is powerful. It’s powerful because I don’t have to declare my variables datatypes like int, float, double, char, or string. Which is something less trivial to worry about.
+It’s already been about two weeks since I’ve been introduced to Javascript and honestly speaking it is a bit different to what I was initially expecting. Before taking ICS 314, I thought Javascript was just going to be like Java only at a more difficult level. After the past two weeks I can tell why Javascript is one of the three core technologies of the World Web. Up to now I have learned Java, C, and C++, but compared to these Javascript is much more powerful. It’s powerful because I don’t have to declare my variables datatypes like int, float, double, char, or string. Which is something less trivial to worry about.
 
 <img class="ui small left floated rounded image" src="../images/arm.jpg">
 
@@ -22,8 +22,7 @@ Personally when it comes to me having to learn a new language I have the consist
 
 ## Power Mind Training
 
-Along with starting how to use Javascript I was also challenged with “athletic software engineering”. It’s basically speed coding on new material that I presently learned. This type of style of learning so far has refreshed my mind after not touching up on coding from a long three month summer break. 
-I think this is an excellent strategy because it will get me ready for when I want to look for a job since Javascript is majorly used in professional work environments. 
+Along with starting how to use Javascript I was also challenged with “athletic software engineering”. It’s basically speed coding on new material that I presently learned. This type of style of learning so far has refreshed my mind after not touching up on coding from a long three month summer break. I think this is an excellent strategy because it will get me ready for when I want to look for a job since Javascript is majorly used in professional work environments. 
 
 Because each time is like a brain workout, my professor calls it a Workout of the Day (WOD). My first WOD was the temperature converter, a very simple implemented function which I could have made average time, but I missed out on the fact that I switched the temperatures arguments. But if I keep repeating to practice the WODs again and again, I predict that I’ll gain a new strength in my own software abilities.
 
