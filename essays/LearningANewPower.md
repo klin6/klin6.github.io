@@ -11,7 +11,7 @@ labels:
 ## Mind Blowing Script
 
 
-<img class="ui medium left floated image" src="../images/arm.jpg">
+<img class="ui small right floated rounded image" src="../images/arm.jpg">
 
 ## Power Mind Training
 
