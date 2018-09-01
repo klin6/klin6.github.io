@@ -12,7 +12,7 @@ labels:
 
 It’s already been about two weeks since I’ve been introduced to Javascript and honestly speaking it is a bit different to what I was expecting. Before taking ICS 314, I thought Javascript was just going to be like Java only at a more difficult level. After the past two weeks I can tell why Javascript is one of the three core technologies of the World Web. Up to now I have learned Java, C, and C++, but compared to these Javascript is powerful. It’s powerful because I don’t have to declare my variables datatypes like int, float, double, char, or string. Which is something less trivial to worry about.
 
-<img class="ui small right floated rounded image" src="../images/arm.jpg">
+<img class="ui small left floated rounded image" src="../images/arm.jpg">
 
 ## FreeCodeCamp
 
@@ -32,7 +32,7 @@ Because each time is like a brain workout, my professor calls it a Workout of th
 		switch(tempType){
   		case 'C': 
     		case 'c':
-    			return (temp-32)*(5/9);	//1. wrong argument, gotta switch
+    			return (temp-32)*(5/9);	//1. wrong argument
     		case 'F':
     		case 'f':
     			return (temp*(9/5))+32;	//2. wrong argument
