@@ -12,7 +12,9 @@ labels:
 
 It’s already been about two weeks since I’ve been introduced to Javascript and honestly speaking it is a bit different to what I was initially expecting. Before taking ICS 314, I thought Javascript was just going to be like Java only at a more difficult level. After the past two weeks I can tell why Javascript is one of the three core technologies of the World Web. Up to now I have learned Java, C, and C++, but compared to these Javascript is much more powerful. It’s powerful because I don’t have to declare my variables datatypes like int, float, double, char, or string. Which is something less trivial to worry about.
 
+<div>
 <img class="ui small left floated rounded image" src="../images/arm.jpg">
+</div>
 
 ## FreeCodeCamp
 
