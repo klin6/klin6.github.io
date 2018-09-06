@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: You Ask Too
+title: You Ask Too!
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-06
 labels:
