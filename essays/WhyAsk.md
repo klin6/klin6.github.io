@@ -17,5 +17,6 @@ labels:
 
 Write a technical essay that discusses why smart questions are important for smart software engineers, how the chosen questions fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof), and the insights you gained as a result of this experience.
 
-
-
+StackOverflow:
+<a href="https://stackoverflow.com/questions/38056800/how-to-maintain-passed-props-to-a-component-when-url-rendering-that-component-is"><i class="large github icon "></i>Good Question</a>
+<a href="https://stackoverflow.com/questions/30251638/how-to-detect-request-desktop-site-mode-of-ios-mobile-safari-and-chrome"><i class="large github icon "></i>Bad Question</a>
