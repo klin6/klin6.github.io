@@ -12,18 +12,17 @@ The software engineering community is a very sharing environment. As comrades in
 
 ## Compare Good vs. Bad
 
-In the first image I have provided is a case of a good smart way to ask a question
+In the first image I have provided is a case of a good smart way to ask a question that I have found on StackOverflow. The person that posted this question was very specific in their header about their problem and what environment they were in. Although the post they gave was long the overall volume wasn't exactly a lot there is only a short and straightforward description along with big visuals of the issue. To me, this post was simple yet very descriptive to ask others for help because I could very easily see the problem. As a result this post obtained many comments where towards the end it got close to a solution.
+
 <img class="ui small right floated rounded image" src="../images/good.png">
-
-First, search StackOverflow for a question submitted by a developer that demonstrates the “smart way”. Such a question should follow the precepts established by Raymond. In addition, the answers provided by the community should demonstrate that asking a question the smart way leads to both efficient and effective help.
-
 <img class="ui small right floated rounded image" src="../images/bad.png">
 
-Next, you will search for a question submitted by a different developer that demonstrates the “not smart way”. In other words, this question violates the principles established by Raymond. In addition, the answers provided by the community should demonstrate that asking a question in a “not smart” way does not lead to both effective and efficient help
+On the other hand, there is the bad way to ask a question as shown in the next image. This post also has a precise header including the issue and environment of the problem. However after reading the header again it is actually asking two questions, one on ios safari and the other on ios chrome. The question should be focusing on one environment, not one or the other. As I also read the actual description of the question it's very short and again continues to ask about multiple cases, it asks of the desktop, tablet, and smartphone environment. The provided tags are distinct yet when looking at the question it doesn't relate to the main topic, either it's asking about javascript or ios. If the post had given maybe some visual or more specific then there might have been some relation to it but as a result this post has been put up since May 2015 and after three years there is still no comment or answer back.
 
-Write a technical essay that discusses why smart questions are important for smart software engineers, how the chosen questions fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof), and the insights you gained as a result of this experience.
+## Why it's important
 
+Asking software engineers questions for help to me means to be blunt, short, and descriptive. Software engineers spend a lot of time having to read lots of code and don't want to have to read around your words. Therefore if I want to get assisted through my problem I need to use the smart way or else I be like the bad way example and get ignored.
 
 StackOverflow:
-<a href="https://stackoverflow.com/questions/38056800/how-to-maintain-passed-props-to-a-component-when-url-rendering-that-component-is"><i class="large github icon "></i>Good Question</a> ,
+<a href="https://stackoverflow.com/questions/38056800/how-to-maintain-passed-props-to-a-component-when-url-rendering-that-component-is"><i class="large github icon "></i>Good Question</a>,
 <a href="https://stackoverflow.com/questions/30251638/how-to-detect-request-desktop-site-mode-of-ios-mobile-safari-and-chrome"><i class="large github icon "></i>Bad Question</a>
