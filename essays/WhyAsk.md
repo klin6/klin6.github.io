@@ -6,7 +6,6 @@ title: Why Ask?
 date: 2018-09-06
 labels:
   - StackOverflow
-  - Javascript
 ---
 
 The software engineering community is a very sharing environment. As comrades in profession we will help one another in our software issues because we all know and understand what it is like to get stuck in our problems. Since I started learning software and if I ever came across a difficult standstill when I'm at home I've relied on StackOverflow. Through StackOverflow I have searched for other similar circumstances as I did to reach a possible solution that others have already found a solution to. But because StackOverflow is such a large network I have had to look and read through a vast amount of questions and answers till I found any that was most similar to my problems.
