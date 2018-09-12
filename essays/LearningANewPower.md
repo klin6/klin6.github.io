@@ -16,7 +16,7 @@ It’s already been about two weeks since I’ve been introduced to Javascript a
 <img class="ui small left floated rounded image" src="../images/arm.jpg">
 </div>
 
-## FreeCodeCamp
+## Hello FreeCodeCamp
 
 <img class="ui small right floated rounded image" src="../images/FCC.jpeg">
 
