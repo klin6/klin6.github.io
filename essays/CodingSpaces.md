@@ -26,7 +26,7 @@ My style has been formed from coding in Javascript, C, and C++. As I code I tend
 <img class="ui small left floated rounded image" src="../images/Eslint_icon.jpg">
 </div>
 <div>
-<img class="ui small left floated rounded image" src="../images/IntelliJIDEA_icon.jpg">
+<img class="ui small left floated rounded image" src="../images/IntelliJIDEA_icon.png">
 </div>
 I recently started using ESLint, a configurable tool that identifies patterns in JavaScript, with Intellij Idea, a java integrated development environment. The biggest change I have to focus on is my spaces, there is literrally a space after every case. One important focus that I felt very different to me was a space every time before every starting curly bracket, it’s very spacious. Using ESLint however is actually very helpful because it displays where my errors are and shows a little lightbulb by the error line that will recommend a fast fix if I click on it. Then it gives me a cute green checkmark on the top right corner when the file is completely in Javascript. When I first tried fixing a file till I got the checkmark it was easy and visible to accomplish, I was very satisfied.
 
