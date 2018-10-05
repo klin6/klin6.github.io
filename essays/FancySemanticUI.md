@@ -23,7 +23,9 @@ I’ve had the experience of recently being introduced to a framework called Sem
 
 ## My Choice
 
-After having the pleasure of trying out my first practice I had the opportunity of choosing to make my own imitation of a webpage. I chose the homepage for Nordstrom Rack because I used to work there. When I built up on my version I ended up with five branches on Github till I pushed my final product to my master, it really kept me organized and easier to work with. Another important thing I figured out is how helpful “containers” are, because it saves you a lot of time on keeping your contents in place and easier to work on making the widths of the whole webpage the same. If you look below I have the real one on the left and my version on the right. Because I used containers for my top menu bar and the categories bar, I could line them up at the center in the same width. Although some say that Semantic UI is frustrating, I found this experience to be quite fun because I learned how to use HTML and CSS to build a front page and every time I go back to my work I find new ways to improve it.
+After having the pleasure of trying out my first practice I had the opportunity of choosing to make my own imitation of a webpage. I chose the homepage for Nordstrom Rack because I used to work there. When I built up on my version I ended up with five branches on Github till I pushed my final product to my master, it really kept me organized and easier to work with. Another important thing I figured out is how helpful “containers” are, because it saves you a lot of time on keeping your contents in place and easier to work on making the widths of the whole webpage the same. If you look below I have the real one on the left and my version on the right. Because I used containers for my top menu bar and the categories bar, I could line them up at the center in the same width. 
+
+Although some say that Semantic UI is frustrating, I found this experience to be quite fun because I learned how to use HTML and CSS to build a front page and every time I go back to my work I find new ways to improve it.
 
 <center>
   <div class="ui medium images">
