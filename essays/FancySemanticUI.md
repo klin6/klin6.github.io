@@ -29,8 +29,8 @@ Although some say that Semantic UI is frustrating, I found this experience to be
 
 <center>
   <div class="ui medium images">
-    <img class="ui floated rounded image" src="../images/NRs.png">
-    <img class="ui floated rounded image" src="../images/mine.png">
+    <img class="ui image" src="../images/NRs.png">
+    <img class="ui image" src="../images/mine.png">
   </div>
 </center>
 
