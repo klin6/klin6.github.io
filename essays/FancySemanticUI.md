@@ -27,8 +27,8 @@ After having the pleasure of trying out my first practice I had the opportunity 
 
 <center>
   <div class="ui medium images">
-    <img class="ui small left floated rounded image" src="../images/NRs.png">
-    <img class="ui small right floated rounded image" src="../images/mine.png">
+    <img class="ui floated rounded image" src="../images/NRs.png">
+    <img class="ui floated rounded image" src="../images/mine.png">
   </div>
 </center>
 
