@@ -33,6 +33,5 @@ After having the pleasure of trying out my first practice I had the opportunity 
   </div>
 </center>
 
-<div>
+##
 Although some say that Semantic UI is frustrating, I found this experience to be quite fun because I learned how to use HTML and CSS to build a front page and every time I go back to my work I find new ways to improve it.
-</div>
