@@ -8,7 +8,7 @@ labels:
   - Design Patterns
 ---
 
-Before starting to learn software in college I thought of it as only continuous long lines of characters with no spaces. So I asked around for a more definitive explanation of what programming uses and how it was done. Then when I spoke to one of my cousins, she said to think of it as more of a car. Specifically, imagine how I would make a car?
+Before starting to learn software in college I thought of it as only continuous long lines of characters with no spaces. So I asked around for a more definitive explanation of what programming uses and how it was done. Then when I spoke to one of my cousins, she said to think of it as more of a car. Specifically, imagine how to make a car.
 
 ## Designing my car
 
