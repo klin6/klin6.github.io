@@ -26,5 +26,5 @@ Another amazing thing is that the pieces make something strong together, but whe
 I have recently 
 
 <center>
-<img class="ui large image" src="../images/mycar.png">
+<img class="ui medium image" src="../images/mycar.png">
 </center>
