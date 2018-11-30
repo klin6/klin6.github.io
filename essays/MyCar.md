@@ -17,7 +17,7 @@ To design a car you need to have a frame to shape the car, you also need the win
 Another amazing thing is that the pieces make something strong together, but when seperated they can still serve as reusable second hand parts to fix other cars. These pieces are similar to design patterns which are reusable solutions to common problems in software.
 
 <div>
-<img class="ui small left floated rounded image" src="../images/carparts.jpg">
+<img class="ui small right floated rounded image" src="../images/carparts.jpg">
 </div>
 
 
