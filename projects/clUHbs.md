@@ -15,6 +15,6 @@ summary: Developed a application
 
 <img class="ui image" src="../images/mit.png">
 
-GitHub Repository: <a href="https://github.com/klin6/EE296proj/blob/master/finalproj.c"><i class="large github icon "></i>GotYourBack</a>
+GitHub Page: <a href="https://cluhbs.github.io/"><i class="large github icon "></i>clUHbs</a>
  
 
