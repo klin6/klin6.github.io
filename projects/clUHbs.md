@@ -5,7 +5,7 @@ image: images/project-logo.png
 title: clUHbs
 permalink: projects/clUHbs
 # All dates must be YYYY-MM-DD format!
-date: 2017-11-22
+date: 2018-12-06
 labels:
   - Javascript
   - Semantic UI React
