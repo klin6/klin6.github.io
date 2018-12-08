@@ -10,7 +10,7 @@ labels:
   - Javascript
   - Semantic UI React
   - Meteor
-summary: Developed a application 
+summary: Developed a application that provides a directory for UH Manoa students to browse a well organized directory of all current student clubs with brief information.
 ---
 
 <img class="ui image" src="../images/mit.png">
