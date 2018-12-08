@@ -13,7 +13,7 @@ labels:
 summary: Developed a application that provides UH Manoa students to browse a well organized directory of all current student clubs with brief information.
 ---
 
-<img class="ui image" src="../images/mit.png">
+<img class="ui image" src="../images/directory.png">
 
 GitHub Page: <a href="https://cluhbs.github.io/"><i class="large github icon "></i>clUHbs</a>
  
