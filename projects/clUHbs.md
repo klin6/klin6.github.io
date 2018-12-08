@@ -25,5 +25,5 @@ My role in this project was mainly leading and staying up to date with all group
 
 From this project I learned much more indepth about meteor and using Javascript. I experienced more on the use of collections and how much more easier it makes to return and call on data that I need access to. I also learned how to use the github environments to help me in creating a project. Breakingdown the project into multiple managable issues really keeps the group more organized and upto date on how everyone is progressing.
 
-UHM Rio's: <a href="https://docs.google.com/spreadsheets/d/1vK_ixq3a86uXjHXy9oNnyYHwAvyU9smNPKuJU6OYd-Q/edit">club list</a>
+UHM RIO's: <a href="https://docs.google.com/spreadsheets/d/1vK_ixq3a86uXjHXy9oNnyYHwAvyU9smNPKuJU6OYd-Q/edit">club list</a>
 GitHub Page: <a href="https://cluhbs.github.io/"><i class="large github icon "></i>clUHbs</a>
