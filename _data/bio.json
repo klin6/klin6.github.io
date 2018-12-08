@@ -8,7 +8,7 @@
     "website": "https://klin6.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Fall, 2019.",
     "location": {
-      "address": "1722 Makiki st. Apt#105",
+      "address": "1722 Makiki street",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -55,6 +55,9 @@
         "C",
         "C++",
         "Java",
+        "Javascript", 
+        "HTML/CSS", 
+        "Semantic UI",
         "MatLab", 
         "Verilog"
       ]
@@ -64,6 +67,7 @@
       "level": "",
       "keywords": [
         "MacOS",
+        "Windows",
         "Git/GitHub"
       ]
     }
@@ -80,7 +84,8 @@
         "Digital Systems and Computer Design",
         "Discrete Mathematics",
         "Linear Algebra and Differential Equations",
-        "Object Oriented Programming"
+        "Object Oriented Programming",
+        "Software Engineering"
       ]
     }
   ],
