@@ -12,6 +12,7 @@ labels:
   - Meteor
 summary: Developed a application that provides UH Manoa students to browse a well organized directory of all current student clubs with brief information.
 ---
+<img class="ui image" src="../images/home.PNG">
 
 <img class="ui image" src="../images/directory.PNG">
 
