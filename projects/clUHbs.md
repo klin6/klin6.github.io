@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/alarm.png
+image: images/project-logo.png
 title: clUHbs
 permalink: projects/clUHbs
 # All dates must be YYYY-MM-DD format!
