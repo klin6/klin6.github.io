@@ -4,12 +4,12 @@
     "label": "Student",
     "picture": "https://klin6.github.io/images/kylielin.jpg",
     "email": "link6@hawaii.edu",
-    "phone": "808-956-0221",
+    "phone": "",
     "website": "https://klin6.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Fall, 2019.",
     "location": {
-      "address": "1722 Makiki street",
-      "postalCode": "96822",
+      "address": "",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
